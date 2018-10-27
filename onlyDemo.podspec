@@ -19,12 +19,12 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "a test demo"
   s.description  = "my demo for component"
-  s.homepage     = "https://github.com/gaozhihong/only"
+  s.homepage     = "https://github.com/gaozhihong/onlyDemo"
 #s.license      = "MIT (example)"
 s.license      = {:type => "Apaches",:file => "LICENSE"}
   s.author             = { "gaozhihong" => "18710296168@163.com" }
    s.platform     = :ios
-  s.source       = { :git => "https://github.com/gaozhihong/only.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/gaozhihong/onlyDemo.git", :tag => "#{s.version}" }
   s.source_files  = "onlyDemo/001/*"
   #s.exclude_files = "Classes/Exclude"
 
