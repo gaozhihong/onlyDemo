@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "a test demo"
   s.description  = "my demo for component"
-  s.homepage     = "https://github.com/gaozhihong/onlyDemo"
+  s.homepage     = "https://github.com/gaozhihong/onlyDemo.git"
 #s.license      = "MIT (example)"
 s.license      = {:type => "Apaches",:file => "LICENSE"}
   s.author             = { "gaozhihong" => "18710296168@163.com" }
