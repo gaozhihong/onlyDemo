@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "onlyDemo"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "a test demo"
   s.description  = "my demo for component"
   s.homepage     = "https://github.com/gaozhihong/onlyDemo.git"
